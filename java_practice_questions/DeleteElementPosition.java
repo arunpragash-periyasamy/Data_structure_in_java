@@ -18,3 +18,15 @@ public class DeleteElementPosition{
         }
     }
 }
+
+/*
+Sample input 
+8
+15 21 32 47 53 65 71 82
+2
+
+Sample Output
+15 21 32 47 53 65 71 82 
+
+implemented using normal array but need to implement in doubly linked list
+ */
