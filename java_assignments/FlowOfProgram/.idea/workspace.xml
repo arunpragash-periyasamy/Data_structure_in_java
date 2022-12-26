@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0d9450d-a0dc-40b9-b04d-e01eeb635966" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HCFAndLCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumOfNIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumOfTwoNumbers.java" afterDir="false" />
-    </list>
+    <list default="true" id="f0d9450d-a0dc-40b9-b04d-e01eeb635966" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
