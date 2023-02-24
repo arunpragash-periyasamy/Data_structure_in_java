@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3e51c48-0531-4c98-aa7e-a722fb5b8a9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckIfTwoStringsAreEquivalent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountItemMatchingARule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DefangingAnIPAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DetermineIfStringHalvesAreAlike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoalParserInterpretation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShuffleString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingTheSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/PrintingPatterns/src/PrintingPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Recursions/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Recursions/src/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Recursions/src/NumbersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Recursions/src/NumbersExampleRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Sorting/src/FindAllDuplicatesInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Sorting/src/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Sorting/src/ReachANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Sorting/src/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Strings/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Strings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Strings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Strings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Strings/Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Strings/src/Comparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Strings/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Strings/src/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Strings/src/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Strings/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij-programs/Strings/src/PrettyPrinting.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KZtA4AHtIcwL3wrh03escX6dop" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/arunpragash/java_data_structures/intellij-programs/Recursions"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.DetermineIfStringHalvesAreAlike">
+    <configuration name="CheckIfTwoStringsAreEquivalent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckIfTwoStringsAreEquivalent" />
+      <module name="String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountItemMatchingARule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountItemMatchingARule" />
+      <module name="String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DetermineIfStringHalvesAreAlike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DetermineIfStringHalvesAreAlike" />
+      <module name="String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoalParserInterpretation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoalParserInterpretation" />
+      <module name="String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingTheSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingTheSentence" />
+      <module name="String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DetermineIfStringHalvesAreAlike" />
+        <item itemvalue="Application.CheckIfTwoStringsAreEquivalent" />
+        <item itemvalue="Application.SortingTheSentence" />
+        <item itemvalue="Application.CountItemMatchingARule" />
+        <item itemvalue="Application.GoalParserInterpretation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3e51c48-0531-4c98-aa7e-a722fb5b8a9a" name="Changes" comment="" />
+      <created>1674193785552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674193785552</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortingTheSentence.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
