@@ -16,7 +16,7 @@ public class Seive {
         }
     }
     static void isPrime(int n, boolean[] prime){
-        for(int i = 2; i <= n; i++){
+        for(int i = 2; i * i <= n; i++){
             if(!prime[i]){
                 for (int j = i*2; j <= n ; j += i) {
                     prime[j] = true;
