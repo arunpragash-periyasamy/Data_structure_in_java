@@ -9,7 +9,7 @@ public class RBS {
             array[i] = read.nextInt();
         }
         int target = read.nextInt();
-        System.out.println(binarySearch(array, target, 0, size - 1));
+         System.out.println(binarySearch(array, target, 0, size - 1));
     }
     static int binarySearch(int[] array, int target, int start, int end){
         if(start > end) return -1;
