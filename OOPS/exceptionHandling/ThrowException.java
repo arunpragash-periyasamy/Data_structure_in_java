@@ -1,7 +1,7 @@
 public class ThrowException {
     public static void main(String[] args) {
         int a = 5;
-        int b = 10;
+        int b = 1;
         try{
             System.out.println(divide(a,b));
         }catch(ArithmeticException e){
