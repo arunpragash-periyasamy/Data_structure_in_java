@@ -2,11 +2,12 @@ package dataStructures.LinkedList;
 
 public class Node {
     int data;
-    Node tail;
+    Node next;
+    Node head;
 
     Node(int data) {
         this.data = data;
-        this.tail = null;
+        this.next = null;
     }
 
 }

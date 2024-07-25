@@ -19,6 +19,19 @@ public class Main {
         sll.delete();
         sll.delete(0);
         sll.delete(7);
+        sll.insertRec(10, 3);
         System.out.println(sll);
+
+        // DoublyLinkedList dll = new DoublyLinkedList();
+        // dll.insert(1);
+        // dll.insert(2);
+        // dll.insert(3);
+        // dll.insert(4);
+        // dll.insert(5);
+        // dll.insert(10, 17);
+        // dll.insert(6);
+        // System.out.println(dll);
+        // System.out.println(dll.delete(4));
+        // System.out.println(dll);
     }    
 }
